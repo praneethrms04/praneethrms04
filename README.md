@@ -8,7 +8,7 @@
 * 👨‍💻 All of my projects are available at <a href="https://praneethofficialwebsite10-ee2057.netlify.app">praneeth-portfolio</a>
 * 📫 How to reach me **praneethrms04@gmail.com**
 * 📄DownLoad Resume Here: <a href="https://drive.google.com/file/d/1IpZ0sL_eYYL9hOvl2T_FIqOOPjCcS7Fi/view?usp=sharing">Dowmload here </a>
-* 🤝  I'm open to collaborating on Front end projects on React JS
+* 🤝  I'm open to collaborating on Front end projects on React JS or Angular
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
