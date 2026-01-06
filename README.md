@@ -1,6 +1,6 @@
 <h1 align="center" color="black">Hi 👋, I'm Praneeth Kumar</h1>
 <div> 
-<h4>Dynamic and innovative Front-end Developer with a strong understanding of web development concepts. Proficient in React, HTML, CSS, and JavaScript. Experienced in using Redux,Node.js, and Express.js. Committed to delivering high-quality and scalable web solutions.</h4>
+<h4>Dynamic and innovative  Software Developer with a strong understanding of web development concepts. Proficient in React, HTML, CSS, and JavaScript. Experienced in using Redux,Zustand,Node.js, MongoDB and Express.js. Committed to delivering high-quality and scalable web solutions.</h4>
 <img align="right" alt="coding" width="300" src="https://ouch-cdn2.icons8.com/OnWAupLOraG6PgdLe0SvlVUHfFT1_idejDehY3YiAFw/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTUx/L2FkYTdkOWE2LWEz/OTAtNDkyYi04ZmVl/LTUwMzVmZDJkY2Fm/ZS5zdmc.png" > 
 </div>
 <p align="left"> </p>
