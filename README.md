@@ -73,21 +73,7 @@
 
 🔗 **[View the code →](https://github.com/praneethrms04/praneeth-portfolio)**
 
----
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneethrms04/praneethrms04/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneethrms04/praneethrms04/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/praneethrms04/praneethrms04/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -102,7 +88,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=praneethrms04&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
