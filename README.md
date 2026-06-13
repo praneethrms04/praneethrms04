@@ -1,13 +1,14 @@
 <!-- ============================================= -->
-<!--  ANIMATED WAVE HEADER                         -->
+<!--  HEADER  (reliable: heading always renders,   -->
+<!--  typing SVG on demolab host — no capsule)     -->
 <!-- ============================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1572B6&height=220&section=header&text=Praneeth%20Kumar%20Ediguttu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%203%2B%20Years&descSize=18&descAlignY=58" alt="header"/>
 
 <div align="center">
 
+# Hi, I'm Praneeth Kumar Ediguttu 👋
+
 <a href="https://github.com/praneethrms04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+production+React+%26+Next.js+UIs;TypeScript+%E2%80%A2+Redux+Toolkit+%E2%80%A2+TanStack+Query;Reusable+component+libraries+%26+custom+visualizations;Open+to+frontend+roles+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&height=60&lines=Frontend+Engineer+%7C+React+%26+Next.js;3%2B+years+building+production+UIs;TypeScript+%E2%80%A2+Redux+Toolkit+%E2%80%A2+TanStack+Query;Open+to+frontend+roles+%26+freelance+work" alt="Typing SVG" />
 </a>
 
 <p>
@@ -25,11 +26,9 @@
 
 </div>
 
-<!-- ============================================= -->
-<!--  ABOUT                                        -->
-<!-- ============================================= -->
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
 **Frontend Engineer** with **3+ years** shipping production **React** and **Next.js** apps in **TypeScript**. I build reusable component libraries, custom visualizations, and high-quality UIs that go beyond off-the-shelf libraries.
 
@@ -39,9 +38,7 @@
 - 🤝 &nbsp;**Open to frontend roles & freelance work** in **React** / **Next.js**
 - 📫 &nbsp;**praneethrms04@gmail.com**
 
-<!-- ============================================= -->
-<!--  IMPACT                                       -->
-<!-- ============================================= -->
+---
 
 ## 🚀 What I Bring
 
@@ -53,9 +50,7 @@
 | 🛠️ **Custom-built features** | PDF/DOCX preview & editing with react-pdf, pdf-lib & Fabric.js — no off-the-shelf equivalent |
 | 🎯 **25% fewer API calls** | Debounced search & performance-tuned data fetching |
 
-<!-- ============================================= -->
-<!--  TECH STACK (animated icons)                  -->
-<!-- ============================================= -->
+---
 
 ## 🛠️ Tech Stack
 
@@ -67,9 +62,7 @@
 
 > **Also:** Zustand · TanStack Query · Radix UI · shadcn/ui · Framer Motion · Bootstrap · GitHub Actions · Turborepo · Jest · Railway
 
-<!-- ============================================= -->
-<!--  FEATURED PROJECT                             -->
-<!-- ============================================= -->
+---
 
 ## 📌 Featured Project
 
@@ -80,21 +73,7 @@
 
 🔗 **[View the code →](https://github.com/praneethrms04/praneeth-portfolio)**
 
-<!-- ============================================= -->
-<!--  ANIMATED ACTIVITY GRAPH                      -->
-<!-- ============================================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praneethrms04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-
-</div>
-
-<!-- ============================================= -->
-<!--  SNAKE ANIMATION (needs the GitHub Action)    -->
-<!-- ============================================= -->
+---
 
 ## 🐍 Watch the Snake Eat My Contributions
 
@@ -108,9 +87,7 @@
 
 </div>
 
-<!-- ============================================= -->
-<!--  GITHUB STATS                                 -->
-<!-- ============================================= -->
+---
 
 ## 📊 GitHub Stats
 
@@ -129,9 +106,7 @@
 
 </div>
 
-<!-- ============================================= -->
-<!--  CONTACT                                       -->
-<!-- ============================================= -->
+---
 
 <div align="center">
 
@@ -142,7 +117,6 @@ I'm open to **frontend engineering roles** and **freelance projects**. If you're
 <a href="mailto:praneethrms04@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/praneethkumar481158186"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-</div>
+<sub>⭐️ from <a href="https://github.com/praneethrms04">praneethrms04</a></sub>
 
-<!-- ANIMATED WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0E75B6&height=120&section=footer" alt="footer"/>
+</div>
